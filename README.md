@@ -1,6 +1,6 @@
 # face-mask-detector
 
-This is preptrained Face mask detector. I have added pretrained deep leanring model for the face mask detection. You can download the code and enjoy the face mask detection.
+This is pre-trained Face mask detector. I have added pretrained deep leanring model for the face mask detection. You can download the code and enjoy the face mask detection.
 
 Steps to run the code :
 1.checkout/download this repository code
